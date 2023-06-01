@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         b站彩色渐变弹幕屏蔽
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/hny3494317690/bili-vip-danmu-remove
 // @version      0.1
 // @description  b站新出的彩色渐变弹幕太恶心了，用这个来屏蔽吧
 // @author       You
