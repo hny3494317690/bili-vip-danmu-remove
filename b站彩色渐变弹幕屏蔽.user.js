@@ -14,7 +14,7 @@
     'use strict';
     // Your code here...
   setInterval(()=>{for(const dom of document.querySelectorAll('.bili-dm-vip')) {
-  dom.style.background = ''
+  dom.style.visibility='hidden'
 }}, 100)
 
 })();
