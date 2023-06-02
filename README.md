@@ -1,3 +1,4 @@
+下载浏览器插件看这里：https://github.com/hny3494317690/bili-vip-danmu-remove
 # b站彩色渐变弹幕屏蔽
 
 ## 油猴脚本使用了消灭dom的方法<br>
