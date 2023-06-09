@@ -14,9 +14,10 @@
     'use strict';
     // Your code here...
  setInterval(()=>{for(const dom of document.querySelectorAll('.bili-dm-vip')) {
+  dom.textContent=""
+  dom.style.opacity=0
   dom.style.visibility='hidden'
-  dom.textContent="";
-  dom.style.opacity=0;
+  
      
 }}, 100)
     
