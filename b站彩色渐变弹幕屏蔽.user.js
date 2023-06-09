@@ -5,7 +5,7 @@
 // @description  b站新出的彩色渐变弹幕太恶心了，用这个来屏蔽吧
 // @author       hny3494317690
 // @match        *://*.bilibili.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
+// @icon         https://www.bilibili.com/favicon.ico
 // @grant        none
 
 // ==/UserScript==
@@ -16,5 +16,4 @@
   setInterval(()=>{for(const dom of document.querySelectorAll('.bili-dm-vip')) {
   dom.style.visibility='hidden'
 }}, 100)
-
 })();
