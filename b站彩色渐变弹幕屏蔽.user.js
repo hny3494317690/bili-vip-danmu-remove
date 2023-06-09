@@ -15,5 +15,6 @@
     // Your code here...
   setInterval(()=>{for(const dom of document.querySelectorAll('.bili-dm-vip')) {
   dom.style.visibility='hidden'
+  dom.textContent="";
 }}, 100)
 })();
